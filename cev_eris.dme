@@ -664,6 +664,7 @@
 #include "code\game\machinery\alarm.dm"
 #include "code\game\machinery\antigrav.dm"
 #include "code\game\machinery\atmo_control.dm"
+#include "code\game\machinery\autodoc.dm"
 #include "code\game\machinery\autodoc_excelsior.dm"
 #include "code\game\machinery\autolathe_disk_cloner.dm"
 #include "code\game\machinery\Beacon.dm"
@@ -2861,4 +2862,6 @@
 #include "maps\submaps\planetary_ruins\radshrine\radshrine.dm"
 #include "maps\submaps\planetary_ruins\spider_nest\spider_nest.dm"
 #include "maps\submaps\planetary_ruins\tar_anomaly\tar_anomaly.dm"
+#include "zzzz_modular_equinox\code\game\machinery\autodoc.dm"
+#include "zzzz_modular_equinox\code\modules\surgery\autodoc.dm"
 // END_INCLUDE
