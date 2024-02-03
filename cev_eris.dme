@@ -2864,4 +2864,6 @@
 #include "maps\submaps\planetary_ruins\tar_anomaly\tar_anomaly.dm"
 #include "zzzz_modular_equinox\code\game\machinery\autodoc.dm"
 #include "zzzz_modular_equinox\code\modules\surgery\autodoc.dm"
+#include "zzzz_modular_equinox\code\game\objects\items\weapons\tools\weldingtools.dm"
+#include "zzzz_modular_equinox\code\modules\mob\living\carbon\human\human.dm"
 // END_INCLUDE
